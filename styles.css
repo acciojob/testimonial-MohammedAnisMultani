@@ -2,14 +2,14 @@
 {
     background-color: #f5f5f5;
     border: 1px solid black;
-    height: 300px;
-    width: 800px;
+    height: 500px;
+    width: 1000px;
 }
 .box
 {
     border: 1px solid black;
     margin: 20px;
-    padding: 20px;
+    padding: 10px;
 }
 .heading
 {
